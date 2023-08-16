@@ -1,23 +1,28 @@
-export const SocialData=[
-    
+export const SocialData = [
+
     {
-        platform:"Github",
+        platform: "Github",
         icon: require("../../assets/icons/github.png"),
-        link:"https://github.com/ThantZinPhyo-Slark",
+        link: "https://github.com/milagromartino",
     },
     {
-        platform:"Linkedin",
+        platform: "Linkedin",
         icon: require("../../assets/icons/linkedin.png"),
-        link:"https://www.linkedin.com/in/thantzinphyo11/",
+        link: "https://www.linkedin.com/in/milagromartino/",
     },
     {
-        platform:"Twitter",
-        icon: require("../../assets/icons/twitter.png"),
-        link: "https://twitter.com/ThantZinPhyoSLK",
+        platform:"WhatsApp",
+        icon: require("../../assets/icons/whatsapp.png"),
+        link: "https://api.whatsapp.com/send/?phone=595982819678&text&type=phone_number&app_absent=0",
     },
-    {
-        platform:"Facebook",
-        icon: require("../../assets/icons/facebook.png"),
-        link:"https://www.facebook.com/thantzin.phyo.18",
-    },
+    /* {
+         platform:"Twitter",
+         icon: require("../../assets/icons/twitter.png"),
+         link: "https://twitter.com/ThantZinPhyoSLK",
+     },
+     {
+         platform:"Facebook",
+         icon: require("../../assets/icons/facebook.png"),
+         link:"https://www.facebook.com/thantzin.phyo.18",
+     },*/
 ];

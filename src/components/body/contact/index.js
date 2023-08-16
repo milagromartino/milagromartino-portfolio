@@ -6,10 +6,10 @@ function Contact() {
   return (
     <div className="contact">
     <Separator />
-    <label className="section-title">Contact</label>
+    <label className="section-title">Contacto</label>
     <div className="contact-container">
       <div className="contact-left">
-        <p>Want to get in touch? Contact me on any of the platform</p>
+        <p>Hablamos? Podemos conectar por cualquiera de estas plataformas.</p>
         <SocialContact />
         </div>
       </div>

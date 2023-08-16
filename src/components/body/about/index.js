@@ -6,9 +6,9 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-        Hello There ✋,I am,
-         <br /> <span className="info-name">Thant Zin Phyo</span>.
-         <br /> I have experience working with Azure Cloud Platform. 
+        Hola, un gusto! Soy
+         <br /> <span className="info-name">Milagro Martino</span>.
+         <br /> Desarrolladora frontend con experiencia en tecnologías como Vue, Vuetify, React y Tailwind.
         </div>
         <div className="about-photo">
           <img 

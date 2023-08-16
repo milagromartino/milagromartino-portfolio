@@ -1,34 +1,34 @@
 export const WorkData = [
     {
-        company: "Google IT Support Certificate" ,
-        designation: "Google IT Support",
-        dateJoining: "2022",
-        dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png",
-        work:"I am proficient in hardware and software troubleshooting , knowledge of operating systems, networking concepts, experience in providing excellent customer service.",
+        company: "High Advanced Program of English Language Studies" ,
+        //designation: "Google IT Support",
+        //dateJoining: "2022",
+        dateEnd: "2019",
+        companyLogo:"data:image/jpeg;base64,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",
+        work:"El curso de certificación de High Advanced English Language Studies del CCPA ofreció un enfoque completo para el desarrollo de habilidades de conversación, traducción, gramática y vocabulario del inglés americano. ",
     },
     {
-        company: "Microsoft Certified: Azure Fundamentals" ,
+        company: "Front End Developer" ,
         designation: "AZ-900",
-        dateJoining: "2022",
+        //dateJoining: "2022",
         dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
-        work:"I have solid understanding of cloud computing principles and best practices.Familiarity with Azure services such as virtual machines, storage, and networking.."
+        companyLogo:"https://raw.githubusercontent.com/milagromartino/unplash-api/main/FrontEnd%20Develope.png",
+        work:"Curso enfocado en comprender y aplicar las prácticas de desarrollo frontend, incluyendo la estructura semántica del HTML, la creación de hojas de estilo CSS y técnicas de diseño responsivo y compatibles con dispositivos y navegadores."
     },
     {
-        company: "Security Operations Analyst" ,
+        company: "Curso de ReactJs" ,
         designation: "SC-200",
-        dateJoining: "2022",
+        //dateJoining: "2022",
         dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png",
-        work:"I proficient in security operations and incident response and experience with threat intelligence and security monitoring using Microsoft security technologies.I have knowledge of governance, risk, and compliance frameworks and practices."
+        companyLogo:"https://raw.githubusercontent.com/milagromartino/unplash-api/main/ReactJs.png",
+        work:"El curso se centró en una comprensión sólida de los conceptos esenciales de React. Se abordaron temas como  principios fundamentales, los componentes, la reutilización del código, uso de los Hooks y Portales de React."
     },
     {
-        company: "Azure Administrator Associate" ,
+        company: "Curso de React+Vite+TailwindCSS" ,
         designation: "AZ-104",
-        dateJoining: "2022",
+        //dateJoining: "2022",
         dateEnd: "2023",
-        companyLogo:"https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
-        work:"I have proficient in managing and maintaining Azure infrastructure and services also experience with Azure virtual machines, storage, networking, and security.I have knowledge of Azure identity and access management, monitoring, and governance."
+        companyLogo:"https://raw.githubusercontent.com/milagromartino/unplash-api/main/ReactViteTailwind.png",
+        work:"En el curso de ReactJS + Vite + Tailwind, se llevó a cabo un enfoque práctico para aplicar los conocimientos adquiridos en el curso de React y combinarlos con las herramientas de Vite y Tailwind CSS para desarrollar un proyecto de comercio electrónico."
     }
 ]
